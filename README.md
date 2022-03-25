@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mikalsmigal
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning basic programming
+- 💞️ I’m looking to collaborate on (don't know yet)
